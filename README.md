@@ -17,16 +17,15 @@ What impact resulted from increasing or decreasing the training window?
 
 When the training window is decreased to 1 month period, the actual results diverge alot from the strategy results ( See figure with 1 Month training). This could because of under training or not using enough data points to train. 
 
-![1 Month training window](../Module_14_Challenge/1 Month .jpg)
 
 However, When the training period is increased to 4 months ( similar results at 5 months), we see that the actual results and the trategy results stay very close together for a much longer period of time. So this performs better.
 
-![5 Month training window](../Module_14_Challenge/5 Months Window.jpg)
+![5 Month training window](https://github.com/shangfii/Module_14_Challenge/blob/main/5_Months_Window.jpg)
 
 
-If increase to 6 months, then there is a marked divergence again. So the best results are at 4 or 5 months
+If increase to 6 months, then there is a marked divergence again. So the better results are at 4 or 5 months
 
-![5 Month training window](../Module_14_Challenge/6 Months Window.jpg)
+![6 Month training window](https://github.com/shangfii/Module_14_Challenge/blob/main/6_Months_Window.jpg)
 
 
 
@@ -34,8 +33,8 @@ Step 2: Tune the trading algorithm by adjusting the SMA input features.
 
 When we use SMA8 and SMA100 the predictions are really good, the graphs coinside really well, other SMA combinatioins like SMA50 and SMA200 lead to very divergent results between the predicted and the actual. So this is better to use SMA8 and SMA100 since we predict them well
 
-![SMA8 and SMA200](../Module_14_Challenge/SMA8 and SMA200 with 3 Months.jpg)
-![SMA8 and SMA100](../Module_14_Challenge/SMA8 snd SMA100 with 3 Months training.jpg)
+![SMA8 and SMA200](https://github.com/shangfii/Module_14_Challenge/blob/main/SMA8_and_SMA200_with_3_Months.jpg)
+![SMA8 and SMA100](https://github.com/shangfii/Module_14_Challenge/blob/main/SMA8_and_SMA100_with_3_Months_training.jpg)
 
 
  What impact resulted from increasing or decreasing either or both of the SMA windows?
