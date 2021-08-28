@@ -33,7 +33,7 @@ Step 2: Tune the trading algorithm by adjusting the SMA input features.
 
 When we use SMA8 and SMA100 the predictions are really good, the graphs coinside really well, other SMA combinatioins like SMA50 and SMA200 lead to very divergent results between the predicted and the actual. So this is better to use SMA8 and SMA100 since we predict them well
 
-![SMA8 and SMA200](https://github.com/shangfii/Module_14_Challenge/blob/main/SMA8_and_SMA200_with_3_Months.jpg)
+![SMA8 and SMA200](https://github.com/shangfii/Module_14_Challenge/blob/main/SMA8_SMA200_3Months.jpg)
 ![SMA8 and SMA100](https://github.com/shangfii/Module_14_Challenge/blob/main/SMA8_and_SMA100_with_3_Months_training.jpg)
 
 
