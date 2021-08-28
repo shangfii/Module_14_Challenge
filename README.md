@@ -12,7 +12,7 @@ Step 1: Tune the training algorithm by adjusting the size of the training datase
 
 What impact resulted from increasing or decreasing the training window?
 
-![3 Month training window](https://github.com/shangfii/Module_14_Challenge/blob/main/1_Month.jpg)
+![3 Month training window](https://github.com/shangfii/Module_14_Challenge/blob/main/SMA4_SMA100_3Months.jpg)
 
 
 When the training window is decreased to 1 month period, the actual results diverge alot from the strategy results ( See figure with 1 Month training). This could because of under training or not using enough data points to train. 
