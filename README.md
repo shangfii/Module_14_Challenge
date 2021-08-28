@@ -20,7 +20,7 @@ When the training window is decreased to 1 month period, the actual results dive
 
 However, When the training period is increased to 4 months ( similar results at 5 months), we see that the actual results and the trategy results stay very close together for a much longer period of time. So this performs better.
 
-![5 Month training window](https://github.com/shangfii/Module_14_Challenge/blob/main/5_Months_Window.jpg)
+![5 Month training window](https://github.com/shangfii/Module_14_Challenge/blob/main/SMA4_SMA100_5Months.jpg)
 
 
 If increase to 6 months, then there is a marked divergence again. So the better results are at 4 or 5 months
